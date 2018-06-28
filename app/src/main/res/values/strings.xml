@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Context API Sample</string>
+    <string name="activity_sample_title_text">Help us serve you better</string>
+    <string name="activity_sample_name_label_text">Name</string>
+    <string name="activity_sample_issue_label_text">Issue</string>
+    <string name="activity_sample_reservation_number_label_text">Reservation number</string>
+    <string name="activity_sample_phone_number_label_text">Phone number</string>
+    <string name="activity_sample_phone_number_hint_text">+14157676865</string>
+    <string name="activity_sample_reservation_number_hint_text">RE4528624</string>
+    <string name="activity_sample_issue_hint_text">Change Reservation</string>
+    <string name="activity_sample_name_hint_text">Jenny Smith</string>
+    <string name="activity_sample_submit_button_text">Request call</string>
+    <string name="activity_sample_api_request_success_message">An agent will call you as soon as possible</string>
+    <string name="activity_sample_generic_error_message">An error as occurred</string>
+</resources>
